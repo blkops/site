@@ -1,0 +1,19 @@
+{
+  "name": "site",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "blkops",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "handlebars": "^3.0.3",
+    "hapi": "^9.0.1",
+    "hapi-react": "^3.1.2",
+    "react": "^0.13.3",
+    "vision": "^2.0.1"
+  }
+}
